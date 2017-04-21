@@ -20,11 +20,11 @@ Here is the contents of each file:
 
 **funniest/__init__.py**
 
-.. literalinclude:: funniest/funniest/__init__.py
+.. literalinclude:: ../funniest/funniest/__init__.py
 
 **funniest/command_line.py**
 
-.. literalinclude:: funniest/funniest/command_line.py
+.. literalinclude:: ../funniest/funniest/command_line.py
 
 **funniest/tests/__init__.py**
 
@@ -32,24 +32,24 @@ Here is the contents of each file:
 
 **funniest/tests/test_joke.py**
 
-.. literalinclude:: funniest/funniest/tests/test_joke.py
+.. literalinclude:: ../funniest/funniest/tests/test_joke.py
 
 **funniest/tests/test_command_line.py**
 
-.. literalinclude:: funniest/funniest/tests/test_command_line.py
+.. literalinclude:: ../funniest/funniest/tests/test_command_line.py
 
 **MANIFEST.in**
 
-.. literalinclude:: funniest/MANIFEST.in
+.. literalinclude:: ../funniest/MANIFEST.in
 
 **README.rst**
 
-.. literalinclude:: funniest/README.rst.example
+.. literalinclude:: ../funniest/README.rst
 
 **setup.py**
 
-.. literalinclude:: funniest/setup.py
+.. literalinclude:: ../funniest/setup.py
 
 **.gitignore**
 
-.. literalinclude:: funniest/.gitignore
+.. literalinclude:: ../funniest/.gitignore
